@@ -160,7 +160,7 @@ A properly designed API integration can help businesses:
 - Support scalable business processes
 
 ## Integration Architecture
-
+https://www.pragyantra.com/tally-api-integration-services
 
 
 Depending on business requirements, an integration may involve:
